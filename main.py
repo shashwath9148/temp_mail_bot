@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # 📌 Load bot token from environment variables
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8287974267:AAGKrOdr5zmMostvnA7XWXXR5r5G3Zp82ug")
 
 # 📝 Logging setup
 logging.basicConfig(
